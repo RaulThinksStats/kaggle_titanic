@@ -1,0 +1,28 @@
+---
+title: "README"
+author: "Raul J.T.A."
+date: "11/3/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Nutshell
+
+
+#Mechanics
+
+#Examples / Useful Things
+
+```{r chunk, echo=FALSE}
+
+```
+
+
+#Coda
+
+##Lick the spoon
+
+##References
